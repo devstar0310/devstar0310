@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Senior Blockchain & Web Full Stack developer.</h1>
+<h1 align="center">Hi 👋, I'm a Senior Developer | Blockchain && Web.</h1>
 
 <p align="center">
   <a href="#">
