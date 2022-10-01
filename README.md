@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Senior Developer | Blockchain && Web && Game.</h1>
+<h1 align="center">Hi 👋, I'm a Senior Web Developer</h1>
 
 <p align="center">
   <a href="#">
